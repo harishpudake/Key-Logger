@@ -1,5 +1,3 @@
-# Key-Logger
-
 # Disclaimer: Educational Purpose Only
 
 This keylogger script has been developed solely for educational and learning purposes. The intention is to demonstrate programming techniques and cybersecurity concepts, including understanding how certain types of software could potentially be misused.
